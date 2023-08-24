@@ -1,0 +1,10 @@
+.tail{
+    display: flex;
+}
+.tail p{
+    margin-left: 15px;
+}
+
+img {
+    width: 200px;
+}
